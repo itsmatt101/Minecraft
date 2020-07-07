@@ -1,0 +1,1361 @@
+[01:28:10] [User Authenticator #9/INFO]: UUID of player Tenny2209 is c1d026af-dfad-4d9d-8b54-9b9d853c5046
+[01:28:10] [Server thread/INFO]: Tenny2209[/108.50.173.237:64538] logged in with entity id 133440 at (-353.62666362481167, 91.0, -581.2872311330692)
+[01:28:10] [Server thread/INFO]: Tenny2209 joined the game
+[01:52:53] [Server thread/INFO]: Tenny2209 was slain by Ravager
+[01:55:23] [Server thread/INFO]: Tenny2209 has completed the challenge [Hero of the Village]
+[02:15:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/148684, l='ServerLevel[world]', x=356.80, y=66.00, z=-584.80]
+[02:19:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/149452, l='ServerLevel[world]', x=356.80, y=66.00, z=-584.20]
+[02:36:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/153061, l='ServerLevel[world]', x=356.20, y=66.00, z=-584.20]
+[02:58:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/157093, l='ServerLevel[world]', x=356.49, y=66.00, z=-584.20]
+[03:05:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/158724, l='ServerLevel[world]', x=356.20, y=66.00, z=-584.20]
+[03:11:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/160232, l='ServerLevel[world]', x=356.20, y=66.00, z=-584.20]
+[03:27:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/163070, l='ServerLevel[world]', x=356.49, y=66.00, z=-584.20]
+[03:29:45] [User Authenticator #10/INFO]: UUID of player littleFloppa is cd5e3d22-eb5d-4b6a-b8e4-482e549920cd
+[03:29:45] [Server thread/INFO]: littleFloppa[/67.163.70.17:64557] logged in with entity id 163534 at (3427.4048844424224, 68.0, 2086.712248128365)
+[03:29:45] [Server thread/INFO]: littleFloppa joined the game
+[03:29:57] [Server thread/INFO]: <Tenny2209> hi
+[03:30:06] [Server thread/INFO]: <littleFloppa> butthole
+[03:30:19] [Server thread/INFO]: <Tenny2209> nice
+[03:31:13] [User Authenticator #11/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[03:31:13] [Server thread/INFO]: BigFloppaa[/67.1.1.29:57844] logged in with entity id 164588 at (-126.56917459115272, 96.0, -460.92500001192093)
+[03:31:13] [Server thread/INFO]: BigFloppaa joined the game
+[03:32:15] [Server thread/INFO]: Villager class_1646['Cartographer'/164920, l='ServerLevel[world]', x=-225.15, y=63.00, z=-538.22] died, message: 'Cartographer was slain by BigFloppaa'
+[03:35:58] [Server thread/WARN]: Tenny2209 moved too quickly! -9.79143459877804,0.7471365104159986,-2.427725686191593
+[03:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[03:37:08] [Server thread/INFO]: <littleFloppa> 4000, 2700
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 8.72456940932716,-3.227453458663007,-4.212138165219303
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 8.963091011433562,-3.4489423104376016,-4.3041821118814445
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 9.196028528743,-3.738492209317357,-4.393952536789763
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 9.423986159087235,-4.0,-4.481695434939589
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 9.829518237069124,-4.0,-4.636800860264435
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 10.248749823941807,-4.0,-4.796650987386908
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 10.675311744883174,-4.0,-4.959039909842143
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 11.10579598143363,-4.076832001495362,-5.1227872910618215
+[03:41:00] [Server thread/WARN]: Horse (vehicle of BigFloppaa) moved too quickly! 11.356363459902695,-4.227453458663007,-5.218090880891253
+[03:41:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/173657, l='ServerLevel[world]', x=356.20, y=66.00, z=-584.20]
+[03:51:00] [Server thread/WARN]: BigFloppaa moved too quickly! 9.664679106774656,1.0013359791121417,2.6741642256158684
+[03:51:44] [Server thread/INFO]: Tenny2209 has made the advancement [Bee Our Guest]
+[03:56:00] [Server thread/WARN]: Tenny2209 moved too quickly! -0.9626121853798963,6.5,7.604996140610638
+[04:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.25423190315359534,0.0,10.396889130022373
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.26401005327488747,0.0,10.79676948117708
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.2737882033961796,0.0,11.196649832331786
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.2835663535174717,0.0,11.596530183486493
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.29334450363876385,0.0,11.9964105346412
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.303122653760056,0.0,12.396290885795906
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.3129008038813481,0.0,12.796171236950613
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.32267895400264024,0.0,13.19605158810532
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.33245710412393237,0.0,13.595931939260026
+[04:06:02] [Server thread/WARN]: Boat (vehicle of BigFloppaa) moved too quickly! -0.3422352542452245,0.0,13.995812290414733
+[04:07:08] [Server thread/INFO]: <littleFloppa> '
+[04:07:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/194869, l='ServerLevel[world]', x=356.80, y=66.00, z=-584.20]
+[04:14:08] [Server thread/INFO]: Tenny2209 has made the advancement [Fishy Business]
+[04:17:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/201026, l='ServerLevel[world]', x=356.20, y=66.00, z=-584.80]
+[04:36:03] [Server thread/WARN]: Tenny2209 moved too quickly! -1.0166814147279126,2.5394052645168017,-17.526177205615653
+[04:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[04:37:15] [Server thread/WARN]: Tenny2209 moved too quickly! 12.33126620371479,13.558891210820263,0.4842117800134247
+[04:39:46] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[04:39:46] [Server thread/INFO]: BigFloppaa left the game
+[04:39:50] [User Authenticator #12/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[04:39:50] [Server thread/INFO]: BigFloppaa[/67.1.1.29:57944] logged in with entity id 214682 at (2227.875330202738, 63.0, 2353.6977026212116)
+[04:39:50] [Server thread/INFO]: BigFloppaa joined the game
+[04:41:05] [Server thread/WARN]: BigFloppaa moved too quickly! -5.607441002456653,-3.635096353564876,7.530850114600071
+[04:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[04:52:36] [Server thread/INFO]: BigFloppaa has made the advancement [Total Beelocation]
+[04:55:20] [Server thread/INFO]: <Tenny2209> wally do you have any phantom membrane?
+[04:55:32] [Server thread/INFO]: <littleFloppa> no he dont
+[05:08:39] [Server thread/INFO]: <littleFloppa> tenny i stole ur phantom membranes
+[05:08:45] [Server thread/INFO]: <littleFloppa> thas why u aint got any
+[05:08:46] [Server thread/INFO]: <littleFloppa> lmfao
+[05:08:55] [Server thread/INFO]: <Tenny2209> I know yall did
+[05:09:54] [Server thread/INFO]: <Tenny2209> OOOHHH shit
+[05:11:57] [Server thread/INFO]: Tenny2209 has made the advancement [A Throwaway Joke]
+[05:16:46] [Server thread/INFO]: littleFloppa has reached the goal [Sky's the Limit]
+[05:17:29] [Server thread/INFO]: <Tenny2209> so whats up with the fish bowl in the middle of towwn
+[05:17:41] [Server thread/INFO]: <littleFloppa> im making a pvp arena
+[05:17:56] [Server thread/INFO]: <Tenny2209> whats with the hoppers then?
+[05:18:04] [Server thread/INFO]: <littleFloppa> so peoples stuff wont get stolen
+[05:18:09] [Server thread/INFO]: <Tenny2209> ah
+[05:18:24] [Server thread/INFO]: <Tenny2209> theres an easier way then having to make all those hopperrs
+[05:18:28] [Server thread/INFO]: <littleFloppa> idc
+[05:18:48] [Server thread/INFO]: <Tenny2209> look what I got wallace
+[05:19:02] [Server thread/INFO]: <BigFloppaa> nice
+[05:21:46] [Server thread/INFO]: <littleFloppa> tenez
+[05:21:52] [Server thread/INFO]: <Tenny2209> what
+[05:22:50] [Server thread/INFO]: <littleFloppa> how
+[05:23:08] [Server thread/INFO]: <littleFloppa> do you do the elytra firework thing
+[05:23:31] [Server thread/INFO]: <Tenny2209> you have to be in the air then press space to activate teh elytra
+[05:23:50] [Server thread/INFO]: <Tenny2209> then right click with a firework in your hand
+[05:25:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/236961, l='ServerLevel[world]', x=-196.53, y=63.00, z=-557.53]
+[05:25:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/236961, l='ServerLevel[world]', x=-196.53, y=63.00, z=-557.53]
+[05:25:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/236961, l='ServerLevel[world]', x=-196.53, y=63.00, z=-557.53]
+[05:28:37] [Server thread/INFO]: <Tenny2209> here eat this
+[05:28:43] [Server thread/INFO]: <littleFloppa> no
+[05:28:53] [Server thread/INFO]: <littleFloppa> shove it up ur butt
+[05:28:58] [Server thread/INFO]: <Tenny2209> ok
+[05:30:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[05:30:24] [Server thread/INFO]: <Tenny2209> hey wally you still have tha channeling book?
+[05:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[05:30:37] [Server thread/INFO]: <littleFloppa> say the n word
+[05:30:41] [Server thread/INFO]: <Tenny2209> nigger
+[05:31:04] [Server thread/INFO]: <littleFloppa> i meant nap
+[05:31:13] [Server thread/INFO]: <Tenny2209> nigger
+[05:31:29] [Server thread/INFO]: <littleFloppa> thats about white
+[05:32:03] [Server thread/INFO]: Tenny2209 lost connection: Disconnected
+[05:32:03] [Server thread/INFO]: Tenny2209 left the game
+[06:11:23] [Server thread/INFO]: littleFloppa lost connection: Disconnected
+[06:11:23] [Server thread/INFO]: littleFloppa left the game
+[06:12:03] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[06:12:03] [Server thread/INFO]: BigFloppaa left the game
+[13:50:45] [User Authenticator #13/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[13:50:46] [Server thread/INFO]: BigFloppaa[/67.1.1.29:50875] logged in with entity id 245778 at (-217.63312002308626, 63.0, -538.9617659673179)
+[13:50:46] [Server thread/INFO]: BigFloppaa joined the game
+[13:51:46] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[13:51:46] [Server thread/INFO]: BigFloppaa left the game
+[13:51:55] [User Authenticator #14/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[13:51:55] [Server thread/INFO]: BigFloppaa[/67.1.1.29:50896] logged in with entity id 246228 at (-217.1366956804873, 63.0, -537.2202278645946)
+[13:51:55] [Server thread/INFO]: BigFloppaa joined the game
+[13:52:56] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[13:52:56] [Server thread/INFO]: BigFloppaa left the game
+[13:53:09] [User Authenticator #15/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[13:53:09] [Server thread/INFO]: BigFloppaa[/67.1.1.29:50918] logged in with entity id 246687 at (-217.1366956804873, 63.0, -537.2202278645946)
+[13:53:09] [Server thread/INFO]: BigFloppaa joined the game
+[13:54:09] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[13:54:09] [Server thread/INFO]: BigFloppaa left the game
+[13:58:49] [User Authenticator #16/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[13:58:49] [Server thread/INFO]: BigFloppaa[/67.1.1.29:49854] logged in with entity id 247183 at (-224.305454718589, 64.02442408821369, -521.8389417542309)
+[13:58:49] [Server thread/INFO]: BigFloppaa joined the game
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:25] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:26] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:27] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:28] [Server thread/INFO]: BigFloppaa lost connection: Timed out
+[13:59:28] [Server thread/INFO]: BigFloppaa left the game
+[13:59:43] [User Authenticator #17/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[13:59:43] [Server thread/INFO]: BigFloppaa[/67.1.1.29:49868] logged in with entity id 247611 at (-224.305454718589, 64.02442408821369, -521.8389417542309)
+[13:59:43] [Server thread/INFO]: BigFloppaa joined the game
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:50] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:51] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:52] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:53] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:54] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:55] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:56] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:57] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:58] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[13:59:59] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:00] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:01] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:02] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:03] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:04] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:05] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:06] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:07] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:08] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:09] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:10] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:11] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:12] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:13] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:14] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:15] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:16] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:17] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:18] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:19] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:20] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:21] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:22] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:23] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/WARN]: BigFloppaa was kicked for floating too long!
+[14:00:24] [Server thread/INFO]: BigFloppaa lost connection: Timed out
+[14:00:24] [Server thread/INFO]: BigFloppaa left the game
+[14:00:30] [User Authenticator #18/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[14:00:30] [Server thread/INFO]: BigFloppaa[/67.1.1.29:49874] logged in with entity id 248036 at (-224.305454718589, 64.02442408821369, -521.8389417542309)
+[14:00:30] [Server thread/INFO]: BigFloppaa joined the game
+[14:00:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:00:47] [Server thread/INFO]: <--[HERE]
+[14:01:38] [Server thread/INFO]: BigFloppaa lost connection: Disconnected
+[14:01:38] [Server thread/INFO]: BigFloppaa left the game
+[14:01:41] [User Authenticator #19/INFO]: UUID of player BigFloppaa is 1a6eb0a4-6613-42f2-bae5-b7c8a80cfa98
+[14:01:42] [Server thread/INFO]: BigFloppaa[/67.1.1.29:49879] logged in with entity id 248514 at (-214.41377836675704, 63.0, -518.4496055400958)
+[14:01:42] [Server thread/INFO]: BigFloppaa joined the game
+[14:03:12] [User Authenticator #20/INFO]: UUID of player iDontBlink is d01ae345-53f9-4627-9f42-f32d3718c6d2
+[14:03:12] [Server thread/INFO]: iDontBlink[/71.114.57.130:50731] logged in with entity id 249056 at (-127.97373490676533, 96.0, -433.95517541136064)
+[14:03:12] [Server thread/INFO]: iDontBlink joined the game
+[14:03:57] [Server thread/INFO]: BigFloppaa lost connection: Timed out
+[14:03:57] [Server thread/INFO]: BigFloppaa left the game
+[14:04:10] [Server thread/INFO]: iDontBlink lost connection: Disconnected
+[14:04:10] [Server thread/INFO]: iDontBlink left the game
+[14:04:24] [Server thread/INFO]: Stopping the server
+[14:04:24] [Server thread/INFO]: Stopping server
+[14:04:24] [Server thread/INFO]: Saving players
+[14:04:24] [Server thread/INFO]: Saving worlds
+[14:04:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:04:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:04:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:04:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:04:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:04:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:04:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
